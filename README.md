@@ -12,6 +12,12 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvjeetGit&layout=compact&theme=dark">
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 27 mins  ██████████████████████▒░░   89.98 % 
+Python       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+HTML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+```
 <!--END_SECTION:waka-->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
