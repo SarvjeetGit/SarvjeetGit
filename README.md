@@ -13,7 +13,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 40 mins   █████████████████████████   100.00 % 
+Python   1 hr 15 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
