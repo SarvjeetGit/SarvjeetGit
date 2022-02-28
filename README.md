@@ -12,9 +12,11 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvjeetGit&layout=compact&theme=dark">
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
