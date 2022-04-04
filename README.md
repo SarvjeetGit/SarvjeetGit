@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarvjeetGit&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22SarvjeetGit" /> </p>
 
 * I am Sarvjeet Kumar. I am a Full-Stack Web Developer with expertise in MERN Stack.  I also have repositories with problems solved over different domains of competitive coding mostly in python.
-* I am a 3rd year undergraduate under the department of Electrical & Electronics Engineering in IEM, Kolkata.
+* I am a 4rd year undergraduate under the department of Electrical & Electronics Engineering in IEM, Kolkata.
 
 ***
  
